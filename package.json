@@ -9,5 +9,9 @@
   },
   "devDependencies": {
     "nuxt": "^3.2.2"
+  },
+  "dependencies": {
+    "ant-design-vue": "^3.2.15",
+    "moment": "^2.29.4"
   }
 }
